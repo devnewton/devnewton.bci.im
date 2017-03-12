@@ -1,7 +1,7 @@
 ---
 title: 'My new game project: shmuprpg'
 date: 2016-11-03 21:44:04
-tags:
+tags: jeux
 ---
 
 I'm starting a new opensource game project: [shmuprpg](https://git.bci.im/shmuprpg/).

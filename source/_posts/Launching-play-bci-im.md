@@ -1,7 +1,7 @@
 ---
 title: Launching play.bci.im
 date: 2016-11-03 21:40:04
-tags:
+tags: jeux
 ---
 
 I made a website [play.bci.im](http://play.bci.im) where you can play all my
