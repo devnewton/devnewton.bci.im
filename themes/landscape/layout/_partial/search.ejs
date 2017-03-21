@@ -1,0 +1,5 @@
+<form action="//lite.qwant.com/" method="get" accept-charset="UTF-8" class="search-form">
+    <input name="q" results="0" class="search-form-input" placeholder="<%= __('search') %>" type="search">
+    <button type="submit" class="search-form-submit">&#xF002;</button>
+    <input name="q" value=" site:<%- config.url.replace(/^https?:\/\//, '') %>" type="hidden">
+</form>
