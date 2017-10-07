@@ -10,6 +10,6 @@ Une nouvelle version de Newton Adventure est disponible. Elle apporte essentiell
 - Le son sur la version web
 - Un logo tout neuf.
 
-{% asset_link logo.webm Logo %}
+{% html5video %} {% asset_path logo.webm %} {% endhtml5video %}
 {% asset_img menu1.jpg Menu 1 %}
 {% asset_img menu2.jpg Menu 2 %}

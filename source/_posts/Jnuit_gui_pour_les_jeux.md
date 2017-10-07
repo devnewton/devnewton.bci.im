@@ -34,7 +34,7 @@ Sur cette base, j'ai implémenté des widgets génériques (select, toggle, labe
 
 Voici un exemple simple en image et en vidéo:
 
-{% asset_link jnuit.webm Demo %}
+{% html5video %} {% asset_path jnuit.webm %} {% endhtml5video %}
 
 #### Créer son propre jeu en une commande!
 
