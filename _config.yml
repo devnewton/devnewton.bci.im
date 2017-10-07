@@ -80,8 +80,8 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: rsync
-  host: bci.im
-  user: devnewton
+  host: incube.bci.im
+  user: devcub
   root: /srv/devnewton
   port: 3615
   delete: true

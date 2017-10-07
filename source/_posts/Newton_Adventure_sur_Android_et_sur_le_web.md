@@ -1,5 +1,5 @@
 ---
-title: Newton Adventure Bald Mod: les chauves aussi ont droit aux jeux vidéos 
+title: Newton Adventure Bald Mod
 date: 2014-01-16 09:28:42
 tags:
 ---
