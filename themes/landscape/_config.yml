@@ -2,8 +2,8 @@
 menu:
   Home: /
   About: /about
-  Games: http://play.bci.im
-  Softwares: https://git.bci.im
+  Games: https://play.devnewton.fr
+  Softwares: https://github.com/devnewton
   Archives: /archives
 rss: /atom.xml
 
